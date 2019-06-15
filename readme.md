@@ -8,3 +8,5 @@ This code is wriiten by Jerry !
 -----------------------------
 
 finding the use of git diff command
+
+line added by jerry ,experimenting to do a conflict"
