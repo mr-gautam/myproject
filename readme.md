@@ -11,3 +11,6 @@ finding the use of git diff command
 
 line added by jerry ,experimenting to do a conflictwe
 welcome to jerry
+
+
+conflict experimenting
